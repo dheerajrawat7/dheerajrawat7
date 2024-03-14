@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dheerajrawat7
 - 🌱 I’m currently pursuing  master's in data science
 - 📫 How to reach me -> www.linkedin.com/in/dheeraj-rawat-75146026a
-  this is my LinkedIN profile link given above.
+  this is my LinkedIN profile link.
   
 
 <!---
